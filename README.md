@@ -27,3 +27,15 @@ To build both the server and the test clients:
 make
 
 > Note: 'network.c', 'network.h', 'gc', and 'rc' were starter files provided by the course staff. All other logic and modifications were implemented by me.
+```
+
+## Acknowledgements
+This project was completed as part of a systems programming assignment at Rutgers University.
+
+The following files and folders were provided as starter code by the course staff:
+- 'test_client_r2/'
+- 'network.c'
+- 'network.h'
+
+All other server logic, including the design and implementation of the 'rpsd' concurrent server, client management, game protocol, and match handling, was independently developed by me.
+
