@@ -37,5 +37,21 @@ The following files and folders were provided as starter code by the course staf
 - 'network.c'
 - 'network.h'
 
-All other server logic, including the design and implementation of the 'rpsd' concurrent server, client management, game protocol, and match handling, was independently developed by me and my group partner Tushti Patel.
+All other server logic, including the design and implementation of the 'rpsd' concurrent server, client management, game protocol, and match handling, were developed collaboratively by the project partners.
 
+## Author
+
+**Kashish Patel**
+Computer Science & ITI Major, Rutgers University
+GitHub: [@kashish-1703](https://github.com/kashish-1703)
+
+**Tushti Patel**
+Computer Science & ITI Major, Rutgers University
+Github:
+
+## License
+
+This project is licensed for **educational and personal use only**.
+It may not be distributed, submitted, or published as part of another academic course.
+
+> Portions of the code (specifically 'network.c', 'network.h', and the 'test_client_r2/' directory) were provided by the course staff for use in the assignment.
