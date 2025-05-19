@@ -3,8 +3,11 @@
 A concurrent game server in C using sockets
 
 The system includes:
-- A multi - client TCP server (called rpsd)
-- A test client implementation (called rc) to interact with the server
+- 'rpsd': a multi - client TCP server that manages players, game sessions, and protocol handling
+- 'rc': a test client to interact with the server via the custom protocol
+- 'gc': a secondary test client for evaluation purposes
+
+The project emphasizes modularity and real - time concurrency using 'select()' for managing multiple client connections simultaneously.
 
 ## Features
 - Designed with modularity in mind
