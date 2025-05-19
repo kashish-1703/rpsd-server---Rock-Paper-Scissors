@@ -37,5 +37,5 @@ The following files and folders were provided as starter code by the course staf
 - 'network.c'
 - 'network.h'
 
-All other server logic, including the design and implementation of the 'rpsd' concurrent server, client management, game protocol, and match handling, was independently developed by me.
+All other server logic, including the design and implementation of the 'rpsd' concurrent server, client management, game protocol, and match handling, was independently developed by me and my group partner Tushti Patel.
 
